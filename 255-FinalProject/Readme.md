@@ -1,9 +1,9 @@
-Book Recommendation System.  
+Book Recommendation System
 
 The main objective is to create a recommendation system to recommend relevant books to users based on popularity and user interests
 
 
-Link to Presentation : https://github.com/nagabathula/dataholics/blob/main/255-FinalProject/C255%20-%20Book%20Recommendation%20System%20-%20Project%20Presentation.pdf
+Link to Presentation and Project Report: https://github.com/nagabathula/dataholics/blob/main/255-FinalProject/C255%20-%20Book%20Recommendation%20System%20-%20Project%20Presentation.pdf
 
 
 Link to Presentation Video : https://www.youtube.com/watch?v=iuY02Owr9S0
